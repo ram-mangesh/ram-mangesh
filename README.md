@@ -4,11 +4,6 @@
 Email Me 👉 ✉️ **mangeshram266@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
-
-# 💫 About Me:
-🚀 Full Stack Developer passionate about building scalable, secure, and AI-driven applications. Experienced in React.js, Spring Boot, Java, Cybersecurity, and modern software architecture. I enjoy transforming complex problems into impactful solutions through innovation, whether it's AI-powered safety platforms, automation systems, enterprise applications, or intelligent web solutions. Always exploring new technologies and contributing to projects that create real-world value.<br><br>🔭 I'm currently working on<br>• AI-Powered Women Safety Intelligence Platform (AEGIS)<br>• NSS Scheduler & Automation System<br>• Full Stack Web Applications using React.js and Spring Boot<br>• Security-focused and AI-integrated software solutions<br><br>👯 I'm looking to collaborate on<br>• Open Source Projects<br>• AI & Generative AI Applications<br>• Cybersecurity Research<br>• Full Stack SaaS Products<br>• Innovative Hackathon Projects<br><br>🤝 I'm looking for help with<br>• Cloud Architecture (AWS/Azure)<br>• Kubernetes & DevOps<br>• Advanced System Design<br>• LLM and Agentic AI Systems<br><br>🌱 I'm currently learning<br>• Microservices Architecture<br>• Kafka & Redis<br>• Kubernetes<br>• Cloud-Native Development<br>• AI Agents & Generative AI<br><br>💬 Ask me about<br>• Java & Spring Boot<br>• React.js & Frontend Development<br>• REST APIs & Microservices<br>• Cybersecurity Fundamentals<br>• System Design<br>• Hackathons & Project Building<br><br>⚡ Fun fact<br>I enjoy turning ideas into production-ready applications and have built projects ranging from AI-powered safety platforms and automation systems to secure full-stack web applications.<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mangesh1.2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mangesh-ram-119648333) 
 
